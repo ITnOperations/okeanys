@@ -15,7 +15,7 @@ Find below an implementation example for an hypothetical **redirect code** `samp
 	frameborder="0"
 	width="100%"
 	height="800"
-	allow="geolocation 'self' https://my-website.com"></iframe>
+	allow="geolocation></iframe>
 ```
 
 ### Property definitions
@@ -52,5 +52,5 @@ You can style the iframe like any other HTML element:
 	frameborder="0"
 	width="100%"
 	height="800"
-	allow="geolocation 'self' https://my-website.com"></iframe>
+	allow="geolocation"></iframe>
 ```
