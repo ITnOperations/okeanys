@@ -24,8 +24,8 @@ Find below an implementation example for an hypothetical **redirect code** `samp
 | :---------- | :---------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
 | src         | `string`    | [MDN📄](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#attr-src) `<iframe>` target url with `?redirect=<redirect-code>` parameter |
 | frameborder | `number`    | [MDN📄](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#attr-frameborder) Remove default `<iframe>` element border                 |
-| width       | `number\|%` | [MDN📄](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#attr-width) The `<iframe>` element width                                   |
-| height      | `number\|%` | [MDN📄](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#attr-height) The `<iframe>` element height                                 |
+| width       | `number\|%` | [MDN📄](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#attr-width) The `<iframe>` element width in `px` or `%`                    |
+| height      | `number\|%` | [MDN📄](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#attr-height) The `<iframe>` element height in `px` or `%`                  |
 | allow       | `string`    | [MDN📄](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#attr-allow) Enable specific Feature-Policies on the `<iframe>`             |
 
 ### Styling
